@@ -1,11 +1,7 @@
-# Air-Universe
+ 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board.
 
-开源多功能机场后端， 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board.
 
-> 反馈 TG 群: https://t.me/Air_Universe <br>
-> 喜欢本项目欢迎 Star⭐
 
-## 文档
 
 - [WIKI](https://github.com/crossfw/Air-Universe/wiki)
 - [一键脚本](https://github.com/crossfw/Air-Universe/wiki/%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E5%AE%89%E8%A3%85)
@@ -54,20 +50,3 @@
 | ----------- | ----- | ------ | ---------- |
 | sspanel-uim | √     | √      | √  |
 | v2board     | √     | √      | √          |
-
-
-## Thanks
-
-* [Project X](https://github.com/XTLS/)
-* [V2Fly](https://github.com/v2fly)
-* [XrayR](https://github.com/XrayR-project/XrayR) - 另一个开源后端, 原生支持限速限用户,但不支持自定义Xray配置.
-* [All stargazers](https://github.com/crossfw/Air-Universe/stargazers)
-
-## Licence
-
-[GNU General Public License v3.0](https://github.com/crossfw/Air-Universe/blob/master/LICENSE)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/crossfw/Air-Universe.svg)](https://starchart.cc/crossfw/Air-Universe)
-
